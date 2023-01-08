@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), using [TailwindCSS](https://tailwindcss.com/) for styling solution and [Mantine](https://mantine.dev/) as component library.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
@@ -22,12 +22,24 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about the technologies used, take a look at the following resources:
+
+### NextJs
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### TailwindCSS
+
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/utility-first) - learn more about what TailwindCSS is and how to use it.
+- [Resources](https://tailwindcss.com/resources) - more resources about the library and additional information.
+- [Playground](https://play.tailwindcss.com/) - interactive playground to learn more about the library and play around before using.
+
+### Mantine
+
+- [About](https://mantine.dev/pages/about/) - learn more about what Mantine is and what it provides.
+- [Mantine Documentation](https://mantine.dev/pages/getting-started/) - get started with how to use Mantine Framework.
+- [Prebuild UI Components](https://ui.mantine.dev/) - Components built using Mantine library that would get you started building beautiful UI/UX.
 
 ## Deploy on Vercel
 
