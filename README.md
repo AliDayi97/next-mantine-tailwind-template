@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), using [TailwindCSS](https://tailwindcss.com/) for styling solution and [Mantine](https://mantine.dev/) as component library.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), using [TailwindCSS](https://tailwindcss.com/) for styling solution, [Mantine](https://mantine.dev/) as component library and [NextAuth](https://next-auth.js.org/) as the authentication library.
 
 ## Getting Started
 
@@ -40,6 +40,12 @@ To learn more about the technologies used, take a look at the following resource
 - [About](https://mantine.dev/pages/about/) - learn more about what Mantine is and what it provides.
 - [Mantine Documentation](https://mantine.dev/pages/getting-started/) - get started with how to use Mantine Framework.
 - [Prebuild UI Components](https://ui.mantine.dev/) - Components built using Mantine library that would get you started building beautiful UI/UX.
+
+### NextAuth
+
+- [Documentation](https://next-auth.js.org/getting-started/introduction) - get started with documentation.
+- [Tutorials](https://next-auth.js.org/tutorials) - additional tutorials on various scenarios.
+- [Providers](https://next-auth.js.org/providers/) - list of all providers supported.
 
 ## Deploy on Vercel
 
