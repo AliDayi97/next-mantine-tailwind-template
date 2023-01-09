@@ -1,5 +1,6 @@
 import './../styles/globals.css';
 import RootStyleRegistry from './emotion';
+import Providers from './providers';
 
 export default function RootLayout({
   children,
@@ -10,7 +11,9 @@ export default function RootLayout({
     <html>
       <head />
       <body>
-        <RootStyleRegistry>{children}</RootStyleRegistry>
+        <RootStyleRegistry>
+          <Providers>{children}</Providers>
+        </RootStyleRegistry>
       </body>
     </html>
   );
